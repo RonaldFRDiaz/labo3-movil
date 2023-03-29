@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="moneda_text">8dp</dimen>
+    <dimen name="distancia_text_money">16dp</dimen>
+    <dimen name="arriba">32dp</dimen>
+</resources>
